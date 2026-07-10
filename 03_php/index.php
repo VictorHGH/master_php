@@ -1,9 +1,7 @@
-<h1>Hola mundo</h1>
+<h1>Hola mundo, esto es HTML</h1>
 
 <?php
 
-for ($i = 1; $i < 11; $i++) {
-    echo ("$i." . " Hola mundo"."<br>");
-}
+echo '<h2>Hola mundo desde php 8</h2>';
 
 ?>
