@@ -13,15 +13,19 @@
 	<?php
 	// Titular
 	echo '<h3>LIstado de videojuegos</h3>';
+	/*
+	Comentario multilinea
+	No sale en ningun lado
+	mas que en el codigo de servidor.
+	 */
 	echo '<ul>'
-		. '<li>Super Mario Bros</li>'
-		. '<li>Mario Kart</li>'
-		. '<li>Zelda</li>'
-		. '<li>Sonic</li>'
-		. '<li>Donkey Kong</li>'
+		. '<li>GTA</li>'
+		. '<li>FIFA</li>'
+		. '<li>Mario Bros</li>'
 		. '</ul>';
 
-	echo '<p>Esta es toda'.' - '.'lista de juegos</p>';
+	echo "<br>HOLA HOLA HOLA<br>";
+	echo '<p>Esta es una'.' - '.'lista de juegos</p>';
 	?>
 
 </body>
